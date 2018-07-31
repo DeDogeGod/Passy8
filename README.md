@@ -1,5 +1,6 @@
 # Passy8
 A Multi Passworld Payload For Windows 7-8 and 10
+# I AM NOT RESPONSIBLE FOR THE ILLIGAL THINGS YOU DO WITH THIS. I MADE THIS FOR EDUCATIONAL PURP ONLY!!!!
 _______________________________________________________________
 ## Features
 
@@ -46,4 +47,6 @@ sudo duck-flasher
 or you can use a diffrent usb.
 Copy and paste the programs onto the root (the main menu) of the usb or ducky. 
 The ducky flasher will work on windows with cdwin and stuff but it is better on osx and linux since you need dependencies.
-
+______________________________________________________________________________________________________________________________________
+# CREDITS!!!!
+I DID NOT MAKE ANY OF THE PROGRAMS I USED AND ONLY SPENT LIKE 3 HOURS ROASTING THIS PAYLOAD FOR THE RUBBER DUCKY.
